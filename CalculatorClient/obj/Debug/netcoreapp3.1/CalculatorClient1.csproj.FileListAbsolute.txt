@@ -1,0 +1,15 @@
+C:\Users\Самоскид\source\repos\CalculatorClient1\bin\Debug\netcoreapp3.1\CalculatorClient1.exe
+C:\Users\Самоскид\source\repos\CalculatorClient1\bin\Debug\netcoreapp3.1\CalculatorClient1.deps.json
+C:\Users\Самоскид\source\repos\CalculatorClient1\bin\Debug\netcoreapp3.1\CalculatorClient1.runtimeconfig.json
+C:\Users\Самоскид\source\repos\CalculatorClient1\bin\Debug\netcoreapp3.1\CalculatorClient1.runtimeconfig.dev.json
+C:\Users\Самоскид\source\repos\CalculatorClient1\bin\Debug\netcoreapp3.1\CalculatorClient1.dll
+C:\Users\Самоскид\source\repos\CalculatorClient1\bin\Debug\netcoreapp3.1\CalculatorClient1.pdb
+C:\Users\Самоскид\source\repos\CalculatorClient1\obj\Debug\netcoreapp3.1\CalculatorClient1.csprojAssemblyReference.cache
+C:\Users\Самоскид\source\repos\CalculatorClient1\obj\Debug\netcoreapp3.1\CalculatorClient1.csproj.GenerateResource.cache
+C:\Users\Самоскид\source\repos\CalculatorClient1\obj\Debug\netcoreapp3.1\CalculatorClient1.AssemblyInfoInputs.cache
+C:\Users\Самоскид\source\repos\CalculatorClient1\obj\Debug\netcoreapp3.1\CalculatorClient1.AssemblyInfo.cs
+C:\Users\Самоскид\source\repos\CalculatorClient1\obj\Debug\netcoreapp3.1\CalculatorClient1.csproj.CoreCompileInputs.cache
+C:\Users\Самоскид\source\repos\CalculatorClient1\obj\Debug\netcoreapp3.1\CalculatorClient1.dll
+C:\Users\Самоскид\source\repos\CalculatorClient1\obj\Debug\netcoreapp3.1\CalculatorClient1.pdb
+C:\Users\Самоскид\source\repos\CalculatorClient1\obj\Debug\netcoreapp3.1\CalculatorClient1.genruntimeconfig.cache
+C:\Users\Самоскид\source\repos\CalculatorClient1\obj\Debug\netcoreapp3.1\CalculatorClient1.Form1.resources
