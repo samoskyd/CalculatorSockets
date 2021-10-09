@@ -1,5 +1,5 @@
 # CalculatorSockets
-This project contains both server and client app.
+This project contains both server and client app and demonstrating a simple realisation of calculator.
 
 ## Client
 Client is a simple Windows Forms application. It gathers information from user (like operation and values) and sends it to the server.
